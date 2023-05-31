@@ -20,7 +20,7 @@ This is a basic calculator built with JavaScript,CSS and HTML. It provides basic
 
 ## Installation
 
-#### 1 Clone the repository
+#### 1. Clone the repository
 
 ```
 https://github.com/davidomotoso/Calculator.git
