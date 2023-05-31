@@ -26,8 +26,8 @@ This is a basic calculator built with JavaScript,CSS and HTML. It provides basic
 https://github.com/davidomotoso/Calculator.git
 ```
 
-- Navigate to the Calculator folder
-- Open calculator.html in your browser
+2. Navigate to the Calculator folder
+3. Open calculator.html in your browser
 
 ## Usage
 
