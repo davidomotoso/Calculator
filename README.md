@@ -12,7 +12,7 @@ This is a basic calculator built with JavaScript,CSS and HTML. It provides basic
 
 - Displays the output of their instructions.
 
-- Stores the output and returns it back to the user when needed when the ans button is clicked.
+- Stores the output and returns it back to the user when the ans button is clicked.
 
 - Consist of a clear and delete button, both performing different functions which would be explained in the
 
