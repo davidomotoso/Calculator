@@ -78,5 +78,5 @@ equal.addEventListener("click", () => {
   localStorage.setItem("ans", textarea.value);
 });
 answer.addEventListener("click", () => {
-  textarea.value = localStorage.getItem("ans");
+  textarea.value += localStorage.getItem("ans");
 });
